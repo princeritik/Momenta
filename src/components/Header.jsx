@@ -71,7 +71,7 @@ export default function Header() {
         className={`
           fixed md:sticky top-0 left-0 z-50
           h-screen w-80 bg-white border-r shadow-sm
-          flex flex-col px-6 py-8 
+          flex flex-col px-6 py-8
           transform transition-transform duration-300
           ${open ? "translate-x-0" : "-translate-x-full"}
           md:translate-x-0

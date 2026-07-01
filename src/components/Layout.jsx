@@ -28,10 +28,10 @@ export default function Layout() {
   };
 
   return (
-    <div className="flex">
+    <div className="min-h-screen md:flex">
       <Header />
 
-      <main className="flex-1 min-h-screen max-md:mt-15 bg-gray-100">
+      <main className="flex-1 min-h-screen pt-16 md:pt-0 bg-gray-100">
         {userData && !userData.emailVerification && (
           <div className="mx-4 mt-4 rounded-2xl border border-yellow-300 bg-yellow-50 px-5 py-4">
             <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
