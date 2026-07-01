@@ -72,7 +72,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="mt-8 text-sm text-gray-400">
-          © {new Date().getFullYear()} MiniInsta. All rights reserved.
+          © {new Date().getFullYear()} Momenta. All rights reserved.
         </p>
       </div>
     </footer>
