@@ -1,14 +1,22 @@
 # 📸 Momenta
 
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-State%20Management-purple)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4-38bdf8?logo=tailwindcss)
+![Appwrite](https://img.shields.io/badge/Appwrite-Backend-f02e65?logo=appwrite)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 > **Every moment matters.**
 
-Momenta is a modern social media web application where users can share moments, interact through likes and comments, manage their profiles, and securely authenticate using Appwrite.
+Momenta is a modern full-stack social media web application that enables users to share moments, interact through likes and comments, manage personal profiles, and securely authenticate using Appwrite.
+
+It is built with **React**, **Redux Toolkit**, **Tailwind CSS**, and **Appwrite**, focusing on clean UI, responsive design, and a smooth user experience.
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** https://your-vercel-url.vercel.app
+🌐 **Live Website:** https://momenta-f1pm3uztb-hritikraj66778-4439s-projects.vercel.app/
 
 ---
 
@@ -16,9 +24,9 @@ Momenta is a modern social media web application where users can share moments, 
 
 > Add screenshots after deployment.
 
-| Home | Profile | Post Details |
-|------|---------|--------------|
-| ![Home](./screenshots/home.png) | ![Profile](./screenshots/profile.png) | ![Detail](./screenshots/detail.png) |
+| Home | Profile | Post Details |Mobile view|
+|------|---------|--------------|-----------|
+| ![Home](./screenshots/home.png) | ![Profile](./screenshots/profile.png) | ![Detail](./screenshots/detail.png) | | ![Mobile view](./screenshots/mobile.png) |
 
 ---
 
